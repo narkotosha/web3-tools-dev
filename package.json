@@ -1,5 +1,5 @@
 {
-    "name": "web3-tools",
+    "name": "web3-tools-dev",
     "version": "1.0.0",
     "description": "A simple Web3 project for interacting with Ethereum blockchain",
     "main": "index.js",
