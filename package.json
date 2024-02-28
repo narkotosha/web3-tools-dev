@@ -1,6 +1,6 @@
 {
     "name": "web3-tools-dev",
-    "version": "1.0.2",
+    "version": "1.0.4",
     "description": "A simple Web3 project for interacting with Ethereum blockchain",
     "main": "index.js",
     "scripts": {
@@ -13,7 +13,10 @@
     "author": "narkotosha",
     "license": "MIT",
     "dependencies": {
-        "web3": "^1.0.0",
-        "web3-tools-dev": "^1.0.1"
-    }
+        "web3": "^1.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/narkotosha/web3_tools_dev.git"
+      }
 }
