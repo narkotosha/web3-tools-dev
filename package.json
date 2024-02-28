@@ -1,16 +1,19 @@
 {
     "name": "web3-tools-dev",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "A simple Web3 project for interacting with Ethereum blockchain",
     "main": "index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "keywords": ["web3", "ethereum"],
-    "author": "nksa",
+    "keywords": [
+        "web3",
+        "ethereum"
+    ],
+    "author": "narkotosha",
     "license": "MIT",
     "dependencies": {
-      "web3": "^1.0.0"
+        "web3": "^1.0.0",
+        "web3-tools-dev": "^1.0.1"
     }
-  }
-  
+}
